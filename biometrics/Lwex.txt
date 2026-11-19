@@ -1,0 +1,9 @@
+--- 1. REGISTERING USER ---
+Capturing in 3 seconds... look at the camera!
+Image successfully captured and saved to test_images\reg_employee.jpg
+Success: Biometric data registered successfully for user 'employee_john'.
+
+--- 2. LOGGING IN ---
+Capturing in 3 seconds... look at the camera!
+Image successfully captured and saved to test_images\login_employee.jpg
+Access Granted: Welcome back, employee_john!
